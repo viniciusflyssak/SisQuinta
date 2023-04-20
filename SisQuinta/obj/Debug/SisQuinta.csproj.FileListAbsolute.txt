@@ -1,0 +1,8 @@
+D:\projetos C#\SisQuinta\SisQuinta\obj\Debug\SisQuinta.csproj.AssemblyReference.cache
+D:\projetos C#\SisQuinta\SisQuinta\obj\Debug\SisQuinta.csproj.SuggestedBindingRedirects.cache
+D:\projetos C#\SisQuinta\SisQuinta\obj\Debug\SisQuinta.csproj.CoreCompileInputs.cache
+D:\projetos C#\SisQuinta\SisQuinta\bin\Debug\SisQuinta.exe.config
+D:\projetos C#\SisQuinta\SisQuinta\bin\Debug\SisQuinta.exe
+D:\projetos C#\SisQuinta\SisQuinta\bin\Debug\SisQuinta.pdb
+D:\projetos C#\SisQuinta\SisQuinta\obj\Debug\SisQuinta.exe
+D:\projetos C#\SisQuinta\SisQuinta\obj\Debug\SisQuinta.pdb
