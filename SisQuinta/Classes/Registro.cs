@@ -1,4 +1,7 @@
-﻿public class Registro
+﻿using System;
+
+[Serializable]
+public class Registro
 {
     public int RegistroID { get; set; }
     public string Nome { get; set; }
